@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors Taxonomy Listing Example on ManiKamran</title>
+    <link>http://localhost:1313/about-copy/</link>
+    <description>Recent content in Authors Taxonomy Listing Example on ManiKamran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Mani Kamran</copyright>
+    <atom:link href="http://localhost:1313/about-copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>作者列表示例</title>
+      <link>http://localhost:1313/about-copy/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about-copy/_index.zh-cn/</guid>
+      <description>在你的文章中添加不同作者的简单示例。</description>
+      
+    </item>
+    
+    <item>
+      <title>著者の分類リストの例</title>
+      <link>http://localhost:1313/about-copy/_index.ja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about-copy/_index.ja/</guid>
+      <description>あなたの記事でどのように著者の分類を開始するかの簡単な例です</description>
+      
+    </item>
+    
+  </channel>
+</rss>
